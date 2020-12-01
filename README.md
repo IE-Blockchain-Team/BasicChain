@@ -1,5 +1,5 @@
-# Full project development
-[Main Project](https://github.com/IE-Blockchain-Team/python_blockchain_app)
+# [Main Project](https://github.com/IE-Blockchain-Team/python_blockchain_app)
+
 
 
 ## Description
